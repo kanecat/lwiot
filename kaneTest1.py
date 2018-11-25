@@ -1,7 +1,7 @@
 #!usr/bin/env python3
 # -*- coding utf-8 -*-
 
-'a kane test module'
+'a kane test module 2018-11-15'
 
 __author__='Kane lu'
 import sys
